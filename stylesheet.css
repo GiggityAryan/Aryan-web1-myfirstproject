@@ -1,0 +1,36 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+.box-one {
+    
+    background-color: red;
+    padding: 20px;
+    height: 150px;
+    width: 200px;
+    border: 10px solid purple;
+    margin: 50px;
+  }
+  
+.box-two {
+    background-color: pink;
+    padding: 10px;
+    height: 100px;
+    width: 200px;
+    padding: 20px;
+    border: 10px solid black;
+  }
+
+.img1{
+  width:200px;
+  height:200px;
+}
+.img1:hover {
+  width: 400px;
+  height: 400px;
+}
+
+.daddy {
+  width:600px;
+  height:450px;
+}

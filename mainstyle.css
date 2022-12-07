@@ -1,0 +1,15 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .img1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+body{background-image: rgb(60,37,23);
+    background: linear-gradient(90deg, rgba(60,37,23,1) 29%, rgba(2,0,36,1) 45%, rgba(121,76,9,1) 59%, rgba(0,212,255,1) 100%);;}
